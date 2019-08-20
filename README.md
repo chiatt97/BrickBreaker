@@ -5,4 +5,4 @@ Use arrow keys to reflect the ball and break the bricks.
 
 
 
-![brickpic](\brickpic.png)
+![brickpic](/brickpic.png)
